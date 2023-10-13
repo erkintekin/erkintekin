@@ -2,10 +2,12 @@
 <h1 align="center">Hi 👋, I'm Erkin</h1>
 <h3 align="center">Jr. Fullstack Developer who's passionate about UI/UX</h3>
 
-<h4 align="center"> 🌱 I’m currently learning Front-End w/React.js</h4>
-
-<h4 align="center"> 📫 How to reach me erkintekin12@gmail.com</h4>
-
+<h4 align="center">
+ 🌱 I’m currently learning Front-End w/React.js
+  </h4>
+  <h4 align="center">
+ 📫 How to reach me **erkintekin12@gmail.com**
+</h4>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/erkin-tekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erkin-tekin" height="30" width="40" /></a>
