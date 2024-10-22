@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Erkin</h1>
 <h3 align="center">Jr. Fullstack Developer who's passionate about UI/UX</h3>
 
-- 🌱 I’m currently learning **Onion Architecture w/MVC**
+- 🌱 I’m currently learning **Onion Architecture on .NET**
 
 - 📫 How to reach me **erkintekin12@gmail.com**
 
