@@ -19,7 +19,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erkintekin&show_icons=true&theme=onedark&locale=en" alt="erkintekin" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erkintekin&theme=dark" alt="erkintekin" /></p>
 
 
 <picture align="center">
