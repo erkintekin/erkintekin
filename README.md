@@ -1,8 +1,8 @@
 ![MasterHead](https://s3-ap-south-1.amazonaws.com/trt-blog-ghost/2022/12/technology-stack-for-web-application-development.png)
 <h1 align="center">Hi 👋, I'm Erkin</h1>
-<h3 align="center">Fullstack Developer who's passionate about React + .NET</h3>
+<h3 align="center">Fullstack Developer who's passionate about React/Next.js + .NET/NestJS</h3>
 
-- 🌱 I’m currently learning **Onion Architecture on .NET**
+- 🌱 I’m currently learning **Onion Architecture on .NET and NestJS**
 
 - 📫 How to reach me **erkintekin12@gmail.com**
 
